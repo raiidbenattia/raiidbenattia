@@ -8,7 +8,7 @@ I’m also really interested in media and dream of becoming a successful freelan
 
 ## 📺 My YouTube Channel
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@raiidbenattia)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@web_div_tn)
 
 ---
 

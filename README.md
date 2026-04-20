@@ -1,14 +1,8 @@
 # ✨ Who am I?
 
-My name is Raiid Ben Atia, and I’m a front-end developer from Tunisia.  
+I’m a front-end developer.  
 I love building websites that look professional and feel real, not just simple or basic designs.  
 I’m also really interested in media and dream of becoming a successful freelancer one day.
-
----
-
-## 📺 My YouTube Channel
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@web_div_tn)
 
 ---
 
